@@ -1,4 +1,4 @@
-import Reactfr from "react";
+import React from "react";
 const Tours = ({ tours, deleteTour }) => {
   return (
     <section>
